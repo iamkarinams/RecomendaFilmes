@@ -1,5 +1,9 @@
 # RecomendaFilmes
 
+  <img align="center" alt="Ka-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Ka-pycharm" height="30" width="120" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"> 
+  
+##
+
 O código fornecido implementa um sistema de recomendação baseado em filtragem colaborativa usando o algoritmo KNN (K-Nearest Neighbors) da biblioteca Surprise.
 
 1. Carregamento do conjunto de dados:
